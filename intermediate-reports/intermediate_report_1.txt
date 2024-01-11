@@ -1,0 +1,27 @@
+Intermediate Report 1– Progress so far
+
+Pdf to text extraction-Pre-Processing stage
+
+"WHAT HAS BEEN DONE"
+
+-We were able to read and convert pdf files to texts using pdfMiner library which allows easy analysis of  text data and provides exact location or position of text in a page. 
+-Using textstat package, we determined the number of sentences, characters and words that make up the text file. 
+-The converted text was then tokenized to split texts into individual sentences and individual words and punctuations using nltk tokenizer. After which the number of sentences was obtained. 
+-To further remove unwanted characters, punctuations, etc, we employed the re module to define regular expressions to achieve a desired output. The desired output was then tokenized.
+-We also filtered sentences by removing Stopwords which do not add much meaning. For example, the words like the, he, have, and, has  etc. The number of sentences after filtering was obtained. 
+
+-For ease of storage, all output or print statements can be saved automatically into a text file during printing. This allows all outputs obtained to be stored in one location. 
+
+
+
+"WHAT TO BE DONE"
+
+-Next, we explore document term matrix to find similarities that exist between scientific research papers.
+-We plan to also extract various sections of scientific research papers. example; background,abstract, conclusion, etc.
+
+
+"OPEN QUESTIONS"
+
+-Is it okay to use 50 scientific papers in our case, what will you advise?
+-Do we apply the process on domain specific research papers or general?
+-How do we proceed after Data Pre-processing stage with implementing RST? Since most of the RST related work in scientific papers do not give step by step implementation of it to get an idea.

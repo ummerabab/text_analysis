@@ -1,0 +1,23 @@
+Intermediate Report 2– Progress so far
+
+Pdf to text extraction-Extraction Phase
+
+"WHAT HAS BEEN DONE"
+
+These tasks have been a challenge for us.
+
+-Regarding document matrix, we are dealing with PDF files but most of the research on internet deals with .txt files.
+
+-After surfing the internet for so long, we were able to get only 2 similar codes for the sections extraction but unfortunately tuning it to fit our needs has also been a very big challenge.
+ 
+-Reason is that, similar questions have been asked online but almost no perfect answer was achieved. All the answers and links given either didnt solve the issue at all or only worked partly with few texts inputs and not as we wanted.  
+-However, we are highly aware that we need to employ the re module to define regular expressions to achieve a desired output hence we are still finding a work around on how to pull this individual sections from our files. 
+
+
+
+"WHAT TO BE DONE"
+
+That being said, we still need more time to execute the following:
+
+-Next, we explore document term matrix to find similarities that exist between scientific research papers.
+-We plan to also extract various sections of scientific research papers. example; background,abstract, conclusion, etc.

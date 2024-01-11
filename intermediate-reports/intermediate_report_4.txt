@@ -1,0 +1,24 @@
+Intermediate Report 4– Progress so far
+
+
+"WHAT HAS BEEN DONE"
+
+
+-Document Term matrix was applied on the first 50 text files of the ACL Corpus.
+-The code was organized using pandas dataFrame to tabularise all 50 text files.
+-Data cleaning was done again to remove numbers, punctuations from the data.
+
+-Data was organized into a Document Term Matrix. And per the output, only a limited part is displayed in Jupiter.
+
+
+"WHAT TO BE DONE"
+-Stemming/Lemmitization
+-There is still a lot of data cleaning to be done on the ACL corpus text files.
+
+Open Questions
+- Is it possible to schedule a meeting on thursday?
+
+Concerns
+
+Having read about RST and surfing the internet, it appears we have limited information on its implementation. It has been theory so far and we are still unsure on how to really execute this.
+Therefore it is really slowing us down and has become a bottleneck. As such, we will be very happy if you will allow us to be flexible with our topic area so that we can explore other techniques. This is why we need the meeting to share our concerns and listen to feedback.

@@ -1,0 +1,18 @@
+Intermediate Report 3– Progress so far
+
+
+"WHAT HAS BEEN DONE"
+
+
+-We removed numbers assigned to Sections and specified key search elements the code has to look for.
+-Using regex, a pattern is defined and all instances matching the search criteria and pattern are determined.
+-A text file from the ACL corpus is parsed to the program and anytime a section is identified, the number attached is dropped and once there is a match,the section and its value is extracted and printed to screen.
+-Any Section or other thing not specified in the list is dropped off immediately.
+
+
+"WHAT TO BE DONE"
+
+We intend to:
+
+-Regarding document matrix, we intend to apply to our .text file samples from the ACL corpus.
+-Identify sentences in each file, extract some meaningful sentences and identify anaphora-antecedents and anaphors that exist then Extract all anaphora 

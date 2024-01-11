@@ -1,0 +1,24 @@
+Intermediate Report 5– Progress so far
+
+So far we have been able to achieve Data Cleaning and Feature Extraction. 
+We are working more on Data Cleaning like stemming, lemmatization and also the next steps that include:
+
+
+
+"WHAT TO BE DONE"
+1. Text classification - We have not been able to complete the implementation yet as there are a lot of frameworks that support text classification.
+2. Research so far is being done on SVM and Naive Bayes.
+
+3. Cross-Validation - Were we will check for the performance of the implemented framework.
+
+
+
+Open questions :-
+
+1. How do we decide on which framework to use for text classification? Can we also use Deep Learning frameworks for that purpose? 
+
+2. How do we manually classify texts ?
+
+3. When is the final submission expected ?
+
+4. Do you recommend using 'Latent Dirichlet Allocation' for Topic modelling ?
